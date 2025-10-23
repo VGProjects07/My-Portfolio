@@ -3,7 +3,7 @@
 
 🔗 Visit My Portfolio
 
-(Replace the link above with your actual GitHub Pages URL)
+https://vgprojects07.github.io/My-Portfolio/
 
 📖 About
 
@@ -22,22 +22,11 @@ This portfolio website is a digital reflection of my learning journey, projects,
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS
 
 Hosting: GitHub Pages
 
 Tools: Visual Studio Code, Git, GitHub
-
-📬 Contact Me
-
-📧 Email: [your-email@example.com
-]
-
-🔗 LinkedIn: [your-linkedin-url]
-
-💻 GitHub: [your-github-url]
-
-▶️ YouTube: [your-youtube-url]
 
 🪪 License
 
